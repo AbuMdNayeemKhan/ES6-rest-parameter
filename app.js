@@ -1,5 +1,5 @@
 //==========Rest Parameter==========//
-// Rest parameter can use many valu. but if we need multipal parametaer with 
+// Rest parameters can use many values. but if we need multiple parameters with rest parameter you should use the rest parameter after all normal parameters.
 
 function show (...numbers) {
     let sum = 0;
